@@ -20,8 +20,7 @@ Quickly search, extract, and summarize information from multiple sources in an o
 ---
 
 ## 🖥 Demo
-
-*(Add a screenshot or GIF of your app here)*
+[!img alt](https://github.com/UmeshKumar-12/ai_agent/blob/2d504b2b66e14a62e62361675d5cb2b12efe2db1/Screenshot%202025-09-07%20145550.png)
 
 ---
 
