@@ -19,10 +19,12 @@ Quickly search, extract, and summarize information from multiple sources in an o
 
 ---
 
-## 🖥 Demo
+## 🖥 Demo1
 ![img alt](https://github.com/UmeshKumar-12/ai_agent/blob/2d504b2b66e14a62e62361675d5cb2b12efe2db1/Screenshot%202025-09-07%20145550.png)
 
 ---
+## Demo2
+![img alt](https://github.com/UmeshKumar-12/ai_agent/blob/6d37f08ca39200c52019d1e3299a8d08183f08f2/Screenshot%202025-09-07%20150918.png)
 
 ## ⚡ How to Run
 
