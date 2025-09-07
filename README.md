@@ -33,3 +33,22 @@ Quickly search, extract, and summarize information from multiple sources in an o
 git clone https://github.com/UmeshKumar-12/ai_agent.git
 cd ai_agent
 
+2.Set up virtual environment (optional but recommended):
+
+python -m venv .venv
+# Activate:
+# Windows
+.venv\Scripts\activate
+# Mac/Linux
+source .venv/bin/activate
+
+3.Install dependencies:
+pip install -r requirements.txt
+
+4.Run the app:
+streamlit run app.py
+
+
+
+
+
